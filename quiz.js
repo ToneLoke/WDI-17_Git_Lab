@@ -4,5 +4,9 @@
 
 /* your code start here */
 
-/* your code ends here */
+var SayHello = function(name){
+        alert("Hi" + name);
+}("Tali");
 
+
+/* your code ends here */
