@@ -4,9 +4,13 @@
 
 /* your code start here */
 
-var SayHello = function(name){
-        alert("Hi" + name);
-}("Tali");
+function SayHello(name){
+        console.log("Hi " + name);
+};
+
+SayHello("Tali");
+
+
 
 
 /* your code ends here */
