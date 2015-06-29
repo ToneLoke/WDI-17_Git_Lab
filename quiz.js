@@ -4,5 +4,10 @@
 
 /* your code start here */
 
-/* your code ends here */
+function myFunction(x,y) {
+  var x = 1;
+  var y = 4;
+  return x + y;
+}
 
+/* your code ends here */
