@@ -4,5 +4,8 @@
 
 /* your code start here */
 
-/* your code ends here */
+var quiz = "This is the git and gitHub lab";
 
+console.log(quiz);
+
+/* your code ends here */
