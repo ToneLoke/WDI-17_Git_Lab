@@ -4,5 +4,13 @@
 
 /* your code start here */
 
-/* your code ends here */
+function SayHello(name){
+        console.log("Hi " + name);
+};
 
+SayHello("Tali");
+
+
+
+
+/* your code ends here */
